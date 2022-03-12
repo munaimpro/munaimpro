@@ -3,7 +3,7 @@
 ### Hi there 👋, This is Munaim Khan
 #### Web Developer
 
-I'm a web designer and back-end web developer with about 3 years of working experience with HTML, CSS, PHP and MySQL. In the meantime I developed 3 blog sites, 2 e-commerce sites, 1 cricket management system, online attendance system, online photo gallery etc. Web design and development is my passion. I always believe in fresh coding and clear communication. I always enjoy learning and discovering something new. I started my programming journey with C programming language and also worked with Java programming language in the past. Coding is just awesome to me. It's my dream to build something new in the world of web using trending technologies in the future.
+I'm a web designer and back-end web developer with about 3 years of working experience with HTML, CSS, PHP and MySQL. In the meantime I developed 3 blog sites, 2 e-commerce sites, 1 cricket management system, online attendance system, online photo gallery etc. Web design and development is my passion. I always believe in fresh coding and clear communication. I always enjoy learning and discovering something new. Coding is just awesome to me. It's my dream to build something new in the world of web using trending technologies in the future.
 
 Skills: HTML / CSS / JavaScript / PHP / MySQL
 
