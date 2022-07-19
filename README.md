@@ -1,5 +1,7 @@
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQGQ84xtCXZXqg/profile-displaybackgroundimage-shrink_350_1400/0/1647093193237?e=1663804800&v=beta&t=7kvw1-dWMi6ObAFmPo_uBb24HSK-6plwYxdSoroqjJ8)
 
+![Profile views](https://gpvc.arturio.dev/munaimpro)
+
 ### Hi 👋, This is Munaim Khan
 #### Web Developer
 
@@ -27,4 +29,3 @@ Skills: HTML / CSS / JavaScript / PHP / MySQL
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=munaimpro)  
 
-![Profile views](https://gpvc.arturio.dev/munaimpro)  
