@@ -9,7 +9,7 @@ I'm a web designer and back-end web developer with about 3 years of working expe
 
 Skills: HTML / CSS / JavaScript / PHP / MySQL
 
-- 🔭 I’m currently working on House Rental System project 
+- 🔭 I’m currently working on Laravel based project 
 - 🌱 I’m currently learning Laravel Framework 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Design & Development 
