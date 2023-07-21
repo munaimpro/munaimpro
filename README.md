@@ -8,7 +8,7 @@ I'm working with Web Design and Back End Web Development from 2020. I have 3 yea
 I completed some projects like blog website, e-commerce website, and some beneficial web applications using the technologies mentioned.
 Web design and development is my passion. I always believe in fresh coding and clear communication. My client's satisfaction is the core target for me. I follow the best coding practice and always love to make optimized and secured code.
 
-<p align="left"> <a href="https://twitter.com/munaimpro" target="blank"><img src="https://img.shields.io/twitter/follow/munaimpro?logo=twitter&style=for-the-badge" alt="munaimpro" /></a> </p>
+<p align="left"> <a href="https://facebook.com/webcodermunaim" target="blank"><img src="https://img.shields.io/facebook/follow/webcodermunaim?logo=facebook&style=for-the-badge" alt="webcodermunaim" /></a> </p>
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/munaimpro?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
