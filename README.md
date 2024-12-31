@@ -4,7 +4,7 @@
 
 Are you seeking a skilled developer to turn your vision into a fully functional, high-performing web solution? 💻✨ Look no further!
 
-I’m a seasoned Laravel & PHP Developer with expertise in:
+I’m a seasoned Laravel & PHP Developer with expertise in: <br>
 🚀 E-commerce Development <br>
 🎨 Custom WordPress Themes & Plugins <br>
 🔗 API Integration & Development <br>
@@ -49,10 +49,7 @@ Let’s bring your ideas to life! 🚀 Whether it’s an e-commerce store, a cor
 
 💡 Ready to get started? 
 
-Let’s connect and discuss how I can bring your vision to life! DM me or Visit - https://munaimpro.com/contact
-
-## Metrics
-![GitHub metrics](https://metrics.lecoq.io/munaimpro)  
+Let’s connect and discuss how I can bring your vision to life! DM me or Visit - https://munaimpro.com/contact  
 
 ## Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=munaimpro)    
