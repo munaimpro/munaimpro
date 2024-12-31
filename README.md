@@ -10,50 +10,48 @@ I’m a seasoned Laravel & PHP Developer with expertise in:
 <br>🚀 E-commerce Development
 <br>🎨 Custom WordPress Themes & Plugins
 <br>🔗 API Integration & Development
-⚙️ Laravel Backend & Frontend Solutions
-📊 PHP MySQL Database Management
-🌐 Full-Stack Development
+<br>⚙️ Laravel Backend & Frontend Solutions
+<br>📊 PHP MySQL Database Management
+<br>🌐 Full-Stack Development
 
 Why Choose Me?
 ---------------------
 ✅ E-commerce Excellence: I specialize in building scalable, user-friendly online stores using Laravel, PHP, and WooCommerce.
-✅ Custom WordPress Solutions: Whether it’s a custom theme, plugin, or enhancing existing functionality, I deliver results that exceed expectations.
-✅ API Expertise: From RESTful APIs to third-party integrations, I create seamless connectivity for your applications.
-✅ Full-Stack Proficiency: With skills in Laravel Livewire, Vue.js, JavaScript, jQuery, and more, I can handle your project end-to-end.
-✅ Secure & Optimized Code: I prioritize performance, security, and scalability in every project.
+<br>✅ Custom WordPress Solutions: Whether it’s a custom theme, plugin, or enhancing existing functionality, I deliver results that exceed expectations.
+<br>✅ API Expertise: From RESTful APIs to third-party integrations, I create seamless connectivity for your applications.
+<br>✅ Full-Stack Proficiency: With skills in Laravel Livewire, Vue.js, JavaScript, jQuery, and more, I can handle your project end-to-end.
+<br>✅ Secure & Optimized Code: I prioritize performance, security, and scalability in every project.
 
 Services/What I Provide
 -----------------------------
-🌟 Laravel Web Development
-🛍️ Custom E-commerce Solutions
-🖌️ WordPress Theme Customization
-🔧 WordPress Plugin Development
-🌐 API Development & Integration
-📈 Performance Optimization
-🔐 Laravel Security Enhancements
+🌟 Laravel Web Development <br>
+🛍️ Custom E-commerce Solutions <br>
+🖌️ WordPress Theme Customization <br>
+🔧 WordPress Plugin Development <br>
+🌐 API Development & Integration <br>
+📈 Performance Optimization <br>
+🔐 Laravel Security Enhancements <br>
 
 Technologies I Excel In 🌟
 -------------------------------
-- PHP, Laravel, MySQL
-- HTML, CSS, JavaScript, jQuery
-- WordPress, WooCommerce
-- Laravel Livewire, Vue.js
-- PHP MVC Frameworks
+- PHP, Laravel, MySQL <br>
+- HTML, CSS, JavaScript, jQuery <br>
+- WordPress, WooCommerce <br>
+- Laravel Livewire, Vue.js <br>
+- PHP MVC Frameworks <br>
 
 What Sets Me Apart?
 -------------------------
-🎯 A results-driven approach tailored to your business needs.
-🕒 Timely delivery with constant updates.
-🤝 Transparent communication and a collaborative mindset.
-💰 Fair pricing without compromising on quality.
+🎯 A results-driven approach tailored to your business needs. <br>
+🕒 Timely delivery with constant updates. <br>
+🤝 Transparent communication and a collaborative mindset. <br>
+💰 Fair pricing without compromising on quality. <br>
 
 Let’s bring your ideas to life! 🚀 Whether it’s an e-commerce store, a corporate website, or a custom API integration, I’m here to make it happen.
 
 💡 Ready to get started? 
 
 Let’s connect and discuss how I can bring your vision to life! DM me or Visit - https://munaimpro.com/contact
-
-<p align="left"> <a href="https://facebook.com/webcodermunaim" target="blank"><img src="https://img.shields.io/facebook/follow/webcodermunaim?logo=facebook&style=for-the-badge" alt="Web Coder Munaim" /></a> </p>
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/munaimpro?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
