@@ -1,6 +1,6 @@
 ## Hi, I'm Munaim Khan 👋
 #### Web Developer
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true' alt='Ali Hossain'>](https://github.com/shovoalways/)
+[<img src='https://github.com/munaimpro/munaimpro/blob/main/MunaimPro_Linkedin_Banner.png?raw=true' alt='Munaim Khan'>](https://github.com/munaimpro/)
 
 ![Profile views](https://gpvc.arturio.dev/munaimpro)
 
