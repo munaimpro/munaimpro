@@ -2,14 +2,14 @@
 #### Web Developer
 [<img src='https://github.com/munaimpro/munaimpro/blob/main/MunaimPro_Linkedin_Banner.png?raw=true' alt='Munaim Khan'>](https://github.com/munaimpro/)
 
-![Profile views](https://gpvc.arturio.dev/munaimpro)
+<p align="left"> <a href="https://facebook.com/WebCoderMunaim" target="blank"><img src="https://img.shields.io/facebook/follow/WebCoderMunaim?logo=facebook&style=for-the-badge" alt="WebCoderMunaim" /></a> </p>
 
 Are you seeking a skilled developer to turn your vision into a fully functional, high-performing web solution? 💻✨ Look no further!
 
 I’m a seasoned Laravel & PHP Developer with expertise in:
-🚀 E-commerce Development
-🎨 Custom WordPress Themes & Plugins
-🔗 API Integration & Development
+<br>🚀 E-commerce Development
+<br>🎨 Custom WordPress Themes & Plugins
+<br>🔗 API Integration & Development
 ⚙️ Laravel Backend & Frontend Solutions
 📊 PHP MySQL Database Management
 🌐 Full-Stack Development
