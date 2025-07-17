@@ -49,7 +49,7 @@ Let’s bring your ideas to life! 🚀 Whether it’s an e-commerce store, a cor
 
 💡 Ready to get started? 
 
-Let’s connect and discuss how I can bring your vision to life! DM me or Visit - https://munaimpro.com/contact  
+Let’s connect and discuss how I can bring your vision to life! DM me or Visit - https://munaimpro.netlify.app#contact 
 
 ## Stats
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=munaimpro)
