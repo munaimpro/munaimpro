@@ -52,6 +52,6 @@ Let’s bring your ideas to life! 🚀 Whether it’s an e-commerce store, a cor
 Let’s connect and discuss how I can bring your vision to life! DM me or Visit - https://munaimpro.netlify.app#contact 
 
 ## Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=munaimpro)
+
 
 ![Munaim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=munaimpro&bg_color=1A1B26&color=6DA0F4&line=6DA0F4&point=A8D1B6&area=true&hide_border=true)
