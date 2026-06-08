@@ -1,57 +1,77 @@
-## Hi, I'm Munaim Khan 👋
-#### Web Developer
-[<img src='https://github.com/munaimpro/munaimpro/blob/main/MunaimPro_Linkedin_Banner.png?raw=true' alt='Munaim Khan'>](https://github.com/munaimpro/)
+# Hi, I am Munaim Khan 👋
 
-Are you seeking a skilled developer to turn your vision into a fully functional, high-performing web solution? 💻✨ Look no further!
+MERN Stack Developer focused on building responsive, user-friendly web applications with React.js, JavaScript, Tailwind CSS, Node.js, Express.js, and MongoDB.
 
-I’m a seasoned Laravel & PHP Developer with expertise in: <br>
-🚀 E-commerce Development <br>
-🎨 Custom WordPress Themes & Plugins <br>
-🔗 API Integration & Development <br>
-⚙️ Laravel Backend & Frontend Solutions <br>
-📊 PHP MySQL Database Management <br>
-🌐 Full-Stack Development <br>
+## About Me
+- I build real-world web apps featuring robust authentication, functional dashboards, full CRUD capabilities, API integration, and clean responsive design.
+- I bring hands-on experience working with React.js, Next.js, React Router DOM, and the Context API alongside a solid understanding of real-life project management.
+- I am currently expanding my backend architecture skills by mastering Express.js to complete full MERN stack autonomy.
+- I am open to an internship, junior MERN stack developer role, junior frontend developer role, or remote opportunities.
 
-Why Choose Me?
----------------------
-✅ E-commerce Excellence: I specialize in building scalable, user-friendly online stores using Laravel, PHP, and WooCommerce. <br>
-✅ Custom WordPress Solutions: Whether it’s a custom theme, plugin, or enhancing existing functionality, I deliver results that exceed expectations. <br>
-✅ API Expertise: From RESTful APIs to third-party integrations, I create seamless connectivity for your applications. <br>
-✅ Full-Stack Proficiency: With skills in Laravel Livewire, Vue.js, JavaScript, jQuery, and more, I can handle your project end-to-end. <br>
-✅ Secure & Optimized Code: I prioritize performance, security, and scalability in every project. <br>
+## Tech Stack
+* **Languages:** JavaScript (ES6+), PHP
+* **Frontend:** React.js, Next.js, React Router DOM, Context API, React Hook Form
+* **Styling & UI:** Tailwind CSS, DaisyUI, Hero UI, Responsive Design, Next Themes (Dark/Light Mode)
+* **Backend & Database:** Node.js, Express.js *(Currently Learning)*, MongoDB, MySQL, Laravel
+* **Authentication & Tools:** Better Auth, Firebase, Git, GitHub, Version Control, REST APIs, Recharts
 
-Services/What I Provide
------------------------------
-🌟 Laravel Web Development <br>
-🛍️ Custom E-commerce Solutions <br>
-🖌️ WordPress Theme Customization <br>
-🔧 WordPress Plugin Development <br>
-🌐 API Development & Integration <br>
-📈 Performance Optimization <br>
-🔐 Laravel Security Enhancements <br>
+## 💻 Featured Projects
 
-Technologies I Excel In 🌟
--------------------------------
-- PHP, Laravel, MySQL <br>
-- HTML, CSS, JavaScript, jQuery <br>
-- WordPress, WooCommerce <br>
-- Laravel Livewire, Vue.js <br>
-- PHP MVC Frameworks <br>
+### 1. Idea Vault – Startup Idea Sharing Platform
+*A dynamic platform for entrepreneurs to share, track, and discuss startup concepts.*
 
-What Sets Me Apart?
--------------------------
-🎯 A results-driven approach tailored to your business needs. <br>
-🕒 Timely delivery with constant updates. <br>
-🤝 Transparent communication and a collaborative mindset. <br>
-💰 Fair pricing without compromising on quality. <br>
+**Links:** [Live Demo](https://idea-vault-munaimpro-updated.vercel.app) | [GitHub Repository](https://github.com/munaimpro/idea-vault)
 
-Let’s bring your ideas to life! 🚀 Whether it’s an e-commerce store, a corporate website, or a custom API integration, I’m here to make it happen.
+**Tech Stack:** Next.js, Tailwind CSS, JavaScript, Next Themes
 
-💡 Ready to get started? 
+**Key Features:**
+- Full CRUD operations for idea management
+- Secure authentication
+- Interactive comment system
+- Engagement/interaction tracking
+- Seamless dark mode support.
 
-Let’s connect and discuss how I can bring your vision to life! DM me or Visit - https://munaimpro.netlify.app#contact 
+### 2. SkillSphere — Online Learning Platform
+*An intuitive educational platform focused on smooth course discovery and student profile tracking.*
 
-## Stats
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=munaimpro&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+**Links:** [Live Demo](https://skill-sphere-munaimpro.vercel.app) | [GitHub Repository](https://github.com/munaimpro/programming-hero-assignment-8)
 
-![Munaim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=munaimpro&bg_color=1A1B26&color=6DA0F4&line=6DA0F4&point=A8D1B6&area=true&hide_border=true)
+**Tech Stack:** Next.js, Tailwind CSS, DaisyUI, Better Auth, React Hook Form
+
+**Key Features:**
+  - Google social login
+  - Real-time course search by title
+  - Dynamic ranking algorithms (Trending & Top-Rated sections)
+  - Robust form validation.
+
+### 3. KeenKeeper — Friendship & Interaction Tracker
+*A structured web application designed to manage personal networks and log relationship touchpoints.*
+
+**Links:** [Live Demo](https://keen-keeper-munaimpro.netlify.app) | [GitHub Repository](https://github.com/munaimpro/programming-hero-assignment-7)
+
+**Tech Stack:** React.js, React Router DOM, Tailwind CSS, DaisyUI, Context API, Recharts
+
+**Key Features:**
+- Friend directory management with profile status tags
+- Custom contact history logging
+- Detailed friend profile views
+- Data visualization via Recharts.
+
+## How I Work
+* **Component-Based UI:** Writing modular, reusable frontend code for scalable applications.
+* **API-First & State Management:** Effective handling of data fetching, API integration, and local/global state management.
+* **Responsive Layouts:** Ensuring seamless user experiences across mobile, tablet, and desktop interfaces.
+* **Git Workflow:** Proper use of version control for feature tracking and code maintenance.
+
+## Current Focus
+* Building production-ready MERN stack applications.
+* Mastering Express.js to deepen backend improvement and database handling.
+* Integrating modern AI tools for debugging, planning, and faster development workflows.
+* Improving problem-solving, clean architecture patterns, and technical documentation.
+
+## Contact
+Recruiters can view my best projects above or reach out to me directly through any of the channels below:
+
+* **Portfolio:** [munaimpro.netlify.app](https://munaimpro.netlify.app)
+* **LinkedIn:** [linkedin.com/in/munaimpro](https://linkedin.com/in/munaimpro)
+* **Email:** [khanmail2599@gmail.com](mailto:khanmail2599@gmail.com)
