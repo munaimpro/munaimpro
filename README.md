@@ -1,8 +1,8 @@
 # Hi, I am Munaim Khan 👋
 
-MERN Stack Developer focused on building responsive, user-friendly web applications with React.js, JavaScript, Tailwind CSS, Node.js, Express.js, and MongoDB.
+I am a focused **MERN Stack Developer** based in Chattogram, Bangladesh. I specialize in building clean, responsive, and performance-optimized user interfaces using the **React ecosystem** and modern styling frameworks. Driven by logic and structured code, I focus on transforming complex requirements into seamless, user-centric web applications.
 
-## About Me
+## 🚀 About Me
 - I build real-world web apps featuring robust authentication, functional dashboards, full CRUD capabilities, API integration, and clean responsive design.
 - I bring hands-on experience working with React.js, Next.js, React Router DOM, and the Context API alongside a solid understanding of real-life project management.
 - I am currently expanding my backend architecture skills by mastering Express.js to complete full MERN stack autonomy.
