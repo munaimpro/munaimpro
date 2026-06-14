@@ -72,6 +72,6 @@ I am a focused **MERN Stack Developer**. I specialize in building clean, respons
 ## Contact
 Recruiters can view my best projects above or reach out to me directly through any of the channels below:
 
-* **Portfolio:** [munaimpro.netlify.app](https://munaimpro.netlify.app)
+* **Portfolio:** [munaimpro.vercel.app](https://munaimpro.vercel.app)
 * **LinkedIn:** [linkedin.com/in/munaimpro](https://linkedin.com/in/munaimpro)
 * **Email:** [khanmail2599@gmail.com](mailto:khanmail2599@gmail.com)
