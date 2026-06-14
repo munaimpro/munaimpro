@@ -1,6 +1,6 @@
 # Hi, I am Munaim Khan 👋
 
-I am a focused **MERN Stack Developer** based in Chattogram, Bangladesh. I specialize in building clean, responsive, and performance-optimized user interfaces using the **React ecosystem** and modern styling frameworks. Driven by logic and structured code, I focus on transforming complex requirements into seamless, user-centric web applications.
+I am a focused **MERN Stack Developer**. I specialize in building clean, responsive, and performance-optimized user interfaces using the **React ecosystem** and modern styling frameworks. Driven by logic and structured code, I focus on transforming complex requirements into seamless, user-centric web applications.
 
 ## 🚀 About Me
 - I build real-world web apps featuring robust authentication, functional dashboards, full CRUD capabilities, API integration, and clean responsive design.
