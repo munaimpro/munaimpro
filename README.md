@@ -10,11 +10,14 @@ I am a focused **Full Stack Web Developer**. I specialize in building clean, res
 - I am open to an internship, junior MERN stack developer role, junior frontend developer role, or remote opportunities.
 
 ## Tech Stack
-* **Languages:** JavaScript (ES6+), PHP
-* **Frontend:** React.js, Next.js, React Router DOM, Context API, React Hook Form
-* **Styling & UI:** Tailwind CSS, DaisyUI, Hero UI, Responsive Design, Next Themes (Dark/Light Mode)
-* **Backend & Database:** Node.js, Express.js *(Currently Learning)*, MongoDB, MySQL, Laravel
-* **Authentication & Tools:** Better Auth, Firebase, Git, GitHub, Version Control, REST APIs, Recharts
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind)](https://skillicons.dev)
+
+### Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma)](https://skillicons.dev)
 
 ## 💻 Featured Projects
 
@@ -69,6 +72,17 @@ I am a focused **Full Stack Web Developer**. I specialize in building clean, res
 * Mastering Express.js to deepen backend improvement and database handling.
 * Integrating modern AI tools for debugging, planning, and faster development workflows.
 * Improving problem-solving, clean architecture patterns, and technical documentation.
+
+## Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munaimpro&theme=default" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=munaimpro&theme=default" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=munaimpro&theme=default" height="180em"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nahin113&theme=default&hide_border=true"/>
+</div>
 
 ## Contact
 Recruiters can view my best projects above or reach out to me directly through any of the channels below:
