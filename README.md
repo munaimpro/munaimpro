@@ -1,4 +1,4 @@
-[<img src='https://github.com/munaimpro/munaimpro/blob/main/MunaimPro_GitHub_Banner.png?raw=true' alt='Munaim Khan'>](https://github.com/munaimpro/)
+[<img src='https://github.com/munaimpro/munaimpro/blob/main/munaimpro_gitHub_banner.png?raw=true' alt='Munaim Khan'>](https://github.com/munaimpro/)
 # Hi, I am Munaim Khan 👋
 I am a focused **Full Stack Web Developer**. I specialize in building clean, responsive, and performance-optimized user interfaces using the **React ecosystem** and modern styling frameworks. Driven by logic and structured code, I focus on transforming complex requirements into seamless, user-centric web applications.<br><br>
 
